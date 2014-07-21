@@ -163,13 +163,13 @@ task :generate do
     f.puts
     f.puts "## Current Members"
     f.puts
-    f.puts "Name".ljust(max_length, " ")
-    f.puts "-" * max_length
+    f.puts "Name".ljust(max_length, " ") + " |"
+    f.puts "-" * max_length + " |"
 
     current = []
     patterns.each_with_index do |pattern, index|
       unless pattern.last.first == :unsubscribed
-        current << names[index].ljust(max_length, " ")
+        current << names[index].ljust(max_length, " ") + " |"
       end
     end
 

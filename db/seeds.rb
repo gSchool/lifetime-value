@@ -9,7 +9,7 @@ User.create!(
 )
 
 user_0 = User.create!(
-  name: "Mrs. Immanuel Welch",
+  name: "Scarlett Stark II",
   email: 'user0@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -41,7 +41,7 @@ SubscriptionEvent.create!(
 )
 
 user_1 = User.create!(
-  name: "Jermey Hirthe",
+  name: "Theo Weber",
   email: 'user1@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -55,7 +55,7 @@ SubscriptionEvent.create!(
 )
 
 user_2 = User.create!(
-  name: "Emilia Wunsch",
+  name: "Dr. Triston Weimann",
   email: 'user2@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -69,7 +69,7 @@ SubscriptionEvent.create!(
 )
 
 user_3 = User.create!(
-  name: "Melany Nikolaus",
+  name: "Marlee Harber",
   email: 'user3@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -83,7 +83,7 @@ SubscriptionEvent.create!(
 )
 
 user_4 = User.create!(
-  name: "Dr. Haylie Huel",
+  name: "Sonny Bechtelar Sr.",
   email: 'user4@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -103,7 +103,7 @@ SubscriptionEvent.create!(
 )
 
 user_5 = User.create!(
-  name: "Luis Beier",
+  name: "Dan Haag",
   email: 'user5@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -117,7 +117,7 @@ SubscriptionEvent.create!(
 )
 
 user_6 = User.create!(
-  name: "Brooke Stark",
+  name: "Amya Wintheiser",
   email: 'user6@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -131,7 +131,7 @@ SubscriptionEvent.create!(
 )
 
 user_7 = User.create!(
-  name: "Janick Braun",
+  name: "Damion Olson",
   email: 'user7@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -157,7 +157,7 @@ SubscriptionEvent.create!(
 )
 
 user_8 = User.create!(
-  name: "Ebony Beer",
+  name: "Sid Mertz MD",
   email: 'user8@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -183,7 +183,7 @@ SubscriptionEvent.create!(
 )
 
 user_9 = User.create!(
-  name: "Mrs. Alexzander Bogan",
+  name: "Jonas Heller",
   email: 'user9@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -197,7 +197,7 @@ SubscriptionEvent.create!(
 )
 
 user_10 = User.create!(
-  name: "Miss Verna Beatty",
+  name: "Julio Hessel",
   email: 'user10@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -223,7 +223,7 @@ SubscriptionEvent.create!(
 )
 
 user_11 = User.create!(
-  name: "Filomena Bartell",
+  name: "Miss Kip Torp",
   email: 'user11@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -237,7 +237,7 @@ SubscriptionEvent.create!(
 )
 
 user_12 = User.create!(
-  name: "Oceane Osinski",
+  name: "Gretchen Langosh",
   email: 'user12@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -263,7 +263,7 @@ SubscriptionEvent.create!(
 )
 
 user_13 = User.create!(
-  name: "Etha Abshire",
+  name: "Henriette Tremblay",
   email: 'user13@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -283,7 +283,7 @@ SubscriptionEvent.create!(
 )
 
 user_14 = User.create!(
-  name: "Kaelyn Hoppe",
+  name: "Shannon Ward",
   email: 'user14@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -309,7 +309,7 @@ SubscriptionEvent.create!(
 )
 
 user_15 = User.create!(
-  name: "Timothy Ankunding",
+  name: "Dorothea Marks PhD",
   email: 'user15@example.com',
   password: 'password',
   password_confirmation: 'password'
@@ -329,7 +329,7 @@ SubscriptionEvent.create!(
 )
 
 user_16 = User.create!(
-  name: "Dr. Eldon Bradtke",
+  name: "Brooke Lueilwitz",
   email: 'user16@example.com',
   password: 'password',
   password_confirmation: 'password'
