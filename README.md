@@ -91,7 +91,7 @@ To check your work:
 
 * Run `rake db:seed` again to make sure your data was generated the same day you are checking
 * Go to your web page
-* Compare the results to [these answers](answers.md)
+* Compare the results to [these answers](ANSWERS.md)
 
 ## Think about it
 
