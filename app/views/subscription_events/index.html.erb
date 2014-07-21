@@ -1,0 +1,21 @@
+<h2>All Subscription Events</h2>
+<table class="table">
+  <thead>
+    <tr>
+      <th>User</th>
+      <th>Type</th>
+      <th>Date</th>
+      <th>Price / Month</th>
+    </tr>
+  </thead>
+  <tbody>
+  <% @subscription_events.each do |subscription_event| %>
+    <tr>
+      <td><%= subscription_event.user.name %></td>
+      <td><%= subscription_event.event_type %></td>
+      <td class="right"><%= subscription_event.date.strftime("%-m/%-d/%Y") %></td>
+      <td class="right"><%= subscription_event.price_per_month.format %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>

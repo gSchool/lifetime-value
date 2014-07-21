@@ -1,0 +1,36 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="924" measuredH="558" mockupW="880" mockupH="536">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="44" y="22" w="880" h="536" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//localhost%3A3000/reports/current-members</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="172" y="179" w="-1" h="-1" measuredW="192" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Current%20Members</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::DataGrid" x="172" y="221" w="624" h="195" measuredW="159" measuredH="321" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%0ARobb%20Lehner%0ADr.%20Cyrus%0ATremaine%20Crooks%0AWilbert%20Abernathy%0ADr.%20Deonte%20Cormier%0ATony%20Veum%0AJaylin%20Thiel%0AStacey%20Kertzmann%0ANorwood%20Cremin%0AMrs.%20Gregory%20Wilderman</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="45" y="92" w="879" h="45" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::SubTitle" x="172" y="101" w="-1" h="-1" measuredW="187" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Subscription%20App</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="380" y="102" w="-1" h="-1" measuredW="204" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Current%20Members%20%7C%20Lifetime%20Value</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
